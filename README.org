@@ -1,0 +1,7 @@
+* learning powershell
+** 综述
+尝试一下powershell， 不一定会坚持下去，得看看是否有足够的应用练习。
+
+happy hacking！
+** 学习笔记
+- [[https://greyzhang.blog.csdn.net/article/details/121913627][925_使用PowerShell查看以及设置环境变量]]
