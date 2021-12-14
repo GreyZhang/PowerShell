@@ -5,3 +5,4 @@
 happy hacking！
 ** 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/121913627][925_使用PowerShell查看以及设置环境变量]]
+- [[https://greyzhang.blog.csdn.net/article/details/121940822][926_注册表导出备份与恢复]]
